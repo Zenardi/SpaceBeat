@@ -1,0 +1,29 @@
+Mono path[0] = 'D:/UnityProjects/SpaceBeat/Build/StandaloneWindows/SpaceBeat_Data/Managed'
+Mono path[1] = 'D:/UnityProjects/SpaceBeat/Build/StandaloneWindows/SpaceBeat_Data/Mono'
+Mono config path = 'D:/UnityProjects/SpaceBeat/Build/StandaloneWindows/SpaceBeat_Data/Mono/etc'
+PlayerConnection initialized from D:/UnityProjects/SpaceBeat/Build/StandaloneWindows/SpaceBeat_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55374
+Multi-casting "[IP] 192.168.0.106 [Port] 55374 [Flags] 2 [Guid] 4137349748 [EditorId] 4011255093 [Version] 1048832 [Id] WindowsPlayer(Zenardi) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.106:55374]
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3040 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProjects\SpaceBeat\Build\StandaloneWindows\SpaceBeat_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProjects\SpaceBeat\Build\StandaloneWindows\SpaceBeat_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SpaceBeat\Build\StandaloneWindows\SpaceBeat_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProjects\SpaceBeat\Build\StandaloneWindows\SpaceBeat_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SpaceBeat\Build\StandaloneWindows\SpaceBeat_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityProjects\SpaceBeat\Build\StandaloneWindows\SpaceBeat_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SpaceBeat\Build\StandaloneWindows\SpaceBeat_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityProjects\SpaceBeat\Build\StandaloneWindows\SpaceBeat_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: D:\UnityProjects\SpaceBeat\Build\StandaloneWindows\SpaceBeat_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityProjects\SpaceBeat\Build\StandaloneWindows\SpaceBeat_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
